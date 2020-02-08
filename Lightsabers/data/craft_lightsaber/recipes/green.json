@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "|^|",
+        "|X|",
+        "|_|"
+    ],
+    "key": {
+        "|": {
+            "item": "minecraft:iron_ingot"
+        },
+        "^": {
+            "item": "minecraft:gold_block"
+        },
+        "X": {
+            "item": "minecraft:nether_star"
+        },
+        "_": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:salmon_spawn_egg",
+        "count": 1
+    }
+}
