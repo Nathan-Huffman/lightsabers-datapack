@@ -1,0 +1,1 @@
+give @a minecraft:carrot_on_a_stick{display:{Name:'{"text":"Lightsaber","italic":false}'},lightsaber:1b,CustomModelData:540002}
