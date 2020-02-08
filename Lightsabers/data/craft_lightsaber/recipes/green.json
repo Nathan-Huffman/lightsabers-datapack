@@ -10,7 +10,7 @@
             "item": "minecraft:iron_ingot"
         },
         "^": {
-            "item": "minecraft:gold_block"
+            "item": "minecraft:emerald_block"
         },
         "X": {
             "item": "minecraft:nether_star"
