@@ -10,7 +10,7 @@
       "entries": [
 		{
           "type": "minecraft:item",
-          "weight": 50,
+          "weight": 30,
           "name": "minecraft:chain_command_block"
         },
         {

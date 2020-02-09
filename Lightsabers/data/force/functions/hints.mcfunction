@@ -1,0 +1,3 @@
+execute if score @s lightsaber_color matches 1 run title @s actionbar {"text":"Sneak: Agility | Right Click: Force Grab","color":"dark_aqua"}
+execute if score @s lightsaber_color matches 2 run title @s actionbar {"text":"Sneak: Stealth | Right Click: Force Grab","color":"dark_green"}
+execute if score @s lightsaber_color matches 3 run title @s actionbar {"text":"Sneak: Lightning | Right Click: Choke","color":"dark_red"}
