@@ -2,7 +2,7 @@
 For our team's first hackathon, we wanted to develop a fun project for a game we have enjoyed playing since our childhood. We wanted to see what we could do with Microsoft's new API. As developers that were inspired by the original Minecraft our goal with this project is to pass on our passion for STEM to the next generation.
 
 ## What it does
-Our project is a data pack that adds lightsabers and force powers to Minecraft. 
+Our project is a data pack that adds lightsabers and force powers to Minecraft. Lightsabers can be obtained through crafting or dropped in dungeon chests.
 * red lightsabers added to nether fortress chests loot table
 * green lightsabers added to simple dungeon chests loot table
 * blue lightsabers added to simple dungeon chests loot table
@@ -11,9 +11,10 @@ Unique force powers were given to each lightsaber depending on color. Force powe
 * blue: force speed (ctrl), force lift (right mouse button)
 * green: force slow (ctrl), force lift (right mouse button)
 Unique Sounds and textures were added for the lightsabers.
+Wither Skeletons now wield lightsabers. 
 
 ## How I built it
-This mod was made as a data pack so no external APIs such as Forge were used. All scripting was done through the native scripting language of Minecraft also used by command blocks. Loot tables were changed by looking at the Minecraft jar and using data from there as a base for modifying the game's loot tables. These were done by adding .json files for the game engine to read that overrides the default loot tables. Custom textures and sounds were added for lightsaber effects as a resource pack.
+This mod was made as a data pack so no external APIs such as Forge were used. All scripting was done through the native scripting language of Minecraft also used by command blocks with some Python for framing. Loot tables were changed by looking at the Minecraft jar and using data from there as a base for modifying the game's loot tables. These were done by adding .json files for the game engine to read that overrides the default loot tables. Custom textures and sounds were added for lightsaber effects as a resource pack.
 
 ## Challenges I ran into
 Learning how to scripting with Minecraft's built in scripting language was the most challenging task. Getting the custom textures, sounds and loot tables to be accepted by Minecraft also took us some time to figure out.
