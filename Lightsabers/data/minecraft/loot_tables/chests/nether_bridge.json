@@ -10,7 +10,7 @@
       "entries": [
 	  {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 50,
           "name": "minecraft:repeating_command_block"
         },
         {
