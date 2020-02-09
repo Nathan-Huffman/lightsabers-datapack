@@ -1,1 +1,1 @@
-execute if data entity @s Inventory:[{id:"minecraft:salmon_spawn_egg", Slot:0b}]}] run replaceitem entity @s Slot.0 minecraft:carrot_on_a_stick{display:{Name:'{"text":"Lightsaber","italic":false}'}}
+execute if data entity @s Inventory:[{id:"minecraft:chain_command_block", Slot:0b}]}] run replaceitem entity @s Slot.0 minecraft:carrot_on_a_stick{display:{Name:'{"text":"Lightsaber","italic":false}'}}

@@ -10,7 +10,7 @@
             "item": "minecraft:iron_ingot"
         },
         "^": {
-            "item": "minecraft:gold_block"
+            "item": "minecraft:emerald_block"
         },
         "X": {
             "item": "minecraft:nether_star"
@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:salmon_spawn_egg",
+        "item": "minecraft:chain_command_block",
         "count": 1
     }
 }
