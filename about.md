@@ -20,7 +20,7 @@ This mod was made as a data pack so no external APIs such as Forge were used. Al
 Learning how to scripting with Minecraft's built in scripting language was the most challenging task. Getting the custom textures, sounds and loot tables to be accepted by Minecraft also took us some time to figure out.
 
 ## Accomplishments that I'm proud of
-Getting a textured lightsaber in game with a data pack. Changing dungeon loot tables to add additional items. Adding new textures and sounds to the game. Using a script to make force powers work.
+Getting a textured lightsaber in game with a data pack. Changing dungeon loot tables to add additional items. Adding new textures and sounds to the game. Using a script to make force powers work. Because this is a data pack, the mod can be dragged and dropped into any world save.
 
 ## What I learned
 Our team got practice with learning a new language fast and creating functions in that language. We also got to learn how .json formatting works and how to implement textures and sounds into a project. 
