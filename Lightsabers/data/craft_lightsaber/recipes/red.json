@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:tropical_fish_spawn_egg",
+        "item": "minecraft:repeating_command_block",
         "count": 1
     }
 }
